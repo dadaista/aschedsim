@@ -1,0 +1,1 @@
+A scheduling simulator for common algorithms like round-robin, rate monotonic, EDF, and others.
